@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{B21B54D4-E99E-4C7B-AD79-949DDC81B35F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="friendship-bingo/MainPage.xaml">
+    <Files>
+      <File FileName="friendship-bingo/MainPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="friendship-bingo/MainPage.xaml" Line="1" Column="22" />
+      <File FileName="friendship-bingo.iOS/AppDelegate.cs" Line="26" Column="33" />
+      <File FileName="friendship-bingo.Android/MainActivity.cs" Line="22" Column="33" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.friendship-bingo.Android PreferredExecutionTarget="Android.Android_Accelerated_Nougat" />
+</Properties>

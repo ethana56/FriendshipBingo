@@ -1,0 +1,8 @@
+/Users/ericnewcomer/Desktop/github/friendship-bingo/friendship-bingo.iOS/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/ericnewcomer/Desktop/github/friendship-bingo/friendship-bingo.iOS/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/ericnewcomer/Desktop/github/friendship-bingo/friendship-bingo.iOS/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/ericnewcomer/Desktop/github/friendship-bingo/friendship-bingo.iOS/obj/iPhoneSimulator/Debug/coremlc/_PartialAppManifest.items
+/Users/ericnewcomer/Desktop/github/friendship-bingo/friendship-bingo.iOS/obj/iPhoneSimulator/Debug/coremlc/_BundleResourceWithLogicalName.items
+/Users/ericnewcomer/Desktop/github/friendship-bingo/friendship-bingo.iOS/obj/iPhoneSimulator/Debug/optimized/
+/Users/ericnewcomer/Desktop/github/friendship-bingo/friendship-bingo.iOS/obj/iPhoneSimulator/Debug/friendship-bingo.iOS.csprojAssemblyReference.cache
+/Users/ericnewcomer/Desktop/github/friendship-bingo/friendship-bingo.iOS/obj/iPhoneSimulator/Debug/friendship-bingo.iOS.csproj.CoreCompileInputs.cache

@@ -1,0 +1,12 @@
+/Users/ericnewcomer/Desktop/github/friendship-bingo/friendship-bingo/bin/Debug/netstandard2.0/friendship-bingo.deps.json
+/Users/ericnewcomer/Desktop/github/friendship-bingo/friendship-bingo/bin/Debug/netstandard2.0/friendship-bingo.dll
+/Users/ericnewcomer/Desktop/github/friendship-bingo/friendship-bingo/bin/Debug/netstandard2.0/friendship-bingo.pdb
+/Users/ericnewcomer/Desktop/github/friendship-bingo/friendship-bingo/obj/Debug/netstandard2.0/friendship-bingo.csprojAssemblyReference.cache
+/Users/ericnewcomer/Desktop/github/friendship-bingo/friendship-bingo/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/ericnewcomer/Desktop/github/friendship-bingo/friendship-bingo/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/ericnewcomer/Desktop/github/friendship-bingo/friendship-bingo/obj/Debug/netstandard2.0/friendship-bingo.csproj.CoreCompileInputs.cache
+/Users/ericnewcomer/Desktop/github/friendship-bingo/friendship-bingo/obj/Debug/netstandard2.0/friendship-bingo.AssemblyInfoInputs.cache
+/Users/ericnewcomer/Desktop/github/friendship-bingo/friendship-bingo/obj/Debug/netstandard2.0/friendship-bingo.AssemblyInfo.cs
+/Users/ericnewcomer/Desktop/github/friendship-bingo/friendship-bingo/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/ericnewcomer/Desktop/github/friendship-bingo/friendship-bingo/obj/Debug/netstandard2.0/friendship-bingo.dll
+/Users/ericnewcomer/Desktop/github/friendship-bingo/friendship-bingo/obj/Debug/netstandard2.0/friendship-bingo.pdb
