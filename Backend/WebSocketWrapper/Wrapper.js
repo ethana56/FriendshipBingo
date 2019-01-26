@@ -4,12 +4,13 @@ const Message = require('./message')
 const ServerError = require('./ServerError')
 const uuid = require('uuid/v4')
 module.exports = class WSRequestResponse extends Events.EventEmitter {
-    constructor(options, transport) {
+    constructor(options) {
         super()
         this._commands = {}
         this._connections = new Map()
-        this._webSocketServer = new transport.Server(options);
+        this._webSocketServer = new WebSocket.Server(options);
         this._webSocketServer.on('connection', (ws, req) => {
+            console.log('connection attempt')
             if (req.headers['reconnect'] !== undefined) {
                 let number = uuid()
                 let reconnectWasSuccessful = handleReconnection.call(this, req.headers['reconnect'], number, ws)
@@ -61,7 +62,6 @@ class Response {
 
 function setupWebsocket(ws, number) {
     ws.on('message', (message) => {
-        console.log('MESSSSSSS')
         let messageObject = JSON.parse(message)
         if (!messageIsValid(messageObject)) {
             let messageToSend = JSON.stringify(new Message(null, messageObject.key, null, new ServerError(200, 'Bad Mesaage')))

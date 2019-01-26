@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "/Users/ethana56/Desktop/FriendshipBingo/friendship-bingo/friendship-bingo/friendship-bingo.csproj",
+  "TargetFramework": "netstandard2.0",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
